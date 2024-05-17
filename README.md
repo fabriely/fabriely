@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f0f8ff&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f0f8ff&section=header"/>
 
 <h1 align="center">Olá! Eu sou Fabriely Luana! </h1>
 
@@ -11,7 +11,10 @@ Oi! Eu sou Fabriely, atualmente estou no quarto período de Ciência da Computa�
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)

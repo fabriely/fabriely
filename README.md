@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f0f8ff&section=header
-">
+"/>
 
 <h1 align="center">Olá! Eu sou Fabriely Luana! </h1>
 

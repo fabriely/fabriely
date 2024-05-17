@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f0f8ff&section=header
-"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f0f8ff&section=header"/>
 
 <h1 align="center">Olá! Eu sou Fabriely Luana! </h1>
 
@@ -9,7 +8,6 @@ Oi! Eu sou Fabriely, atualmente estou no quarto período de Ciência da Computa�
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fabriely-luana-ba298b243/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/fflps)
-
 
 ## Skills
 

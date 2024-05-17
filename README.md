@@ -11,3 +11,5 @@ Oi! Eu sou Fabriely, atualmente estou no quarto período de Ciência da Computa�
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

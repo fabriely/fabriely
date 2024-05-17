@@ -17,7 +17,7 @@ Oi! Eu sou Fabriely, atualmente estou no quarto período de Ciência da Computa�
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fflps&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=C8A2C8&text_color=FFFFFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fflps&bg_color=0D1117&border_color=30A3DC&title_color=C8A2C8&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fflps&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fflps&bg_color=0D1117&border_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
 
 

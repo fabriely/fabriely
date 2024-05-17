@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color-gradient=30A3DC:FFA500&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color-gradient=30A3DC&section=header"/>
 
 
 <h1 align="center">Olá! Eu sou Fabriely Luana! </h1>

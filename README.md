@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f0f8ff&section=header
+">
 
-# Fabriely Luana
+<h1 align="center">Olá! Eu sou Fabriely Luana! </h1>
 
 ## Sobre Mim
 Oi! Eu sou Fabriely, atualmente estou no quarto período de Ciência da Computação na UFPE e sou apaixonada por ler, programar e treinar. Estou sempre buscando coisas novas para aprender!

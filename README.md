@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color-gradient=30A3DC&section=header"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f0f8ff&section=header"/>
 
 <h1 align="center">Olá! Eu sou Fabriely Luana! </h1>
 
@@ -13,12 +12,10 @@ Oi! Eu sou Fabriely, atualmente estou no quarto período de Ciência da Computa�
 ## Skills
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fflps&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fflps&bg_color=0D1117&border_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
-
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fflps&bg_color=0D1117&border_color=30A3DC&title_color=FFA500&text_color=FFFFFF&hide_border=true&layout=compact&langs_count=8&card_width=445&color=30A3DC)

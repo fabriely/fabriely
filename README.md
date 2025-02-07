@@ -23,4 +23,3 @@ Oi! Eu sou Fabriely, atualmente estou no quinto período de Ciência da Computa�
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fflps&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fflps&bg_color=0D1117&border_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
 
-![Snake animation](https://raw.githubusercontent.com/fabriely/fabriely/output/github-contribution-grid-snake.svg)

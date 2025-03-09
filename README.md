@@ -20,6 +20,6 @@ Oi! Eu sou Fabriely, atualmente estou no quinto período de Ciência da Computa�
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=FFFFFF)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fflps&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fflps&bg_color=0D1117&border_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriely&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabriely&bg_color=0D1117&border_color=30A3DC&title_color=FFA500&text_color=FFFFFF)
 
